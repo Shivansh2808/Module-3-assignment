@@ -1,0 +1,34 @@
+h1,h2{
+text-align: center;
+
+}
+h1{
+	padding-top: 15px;
+	padding-bottom:15px; 
+}
+h2{
+	
+	padding-top: 10px;
+	padding-bottom:10px;
+}
+
+.nav-link {
+text-align: right;
+}
+.navbar-brand{
+	font-weight:bold;
+
+}
+.navbar-nav{
+	display: none;
+}
+.block1{
+	border:1px solid black;
+	background-color: #c2c2d6;
+}
+.block1 p{
+	margin-left: 8px;
+	margin-right: 8px;
+	margin-top: 0px;
+
+}
